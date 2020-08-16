@@ -1,5 +1,6 @@
 学习笔记
-BFS代码模板
+
+BFS模板
 
 def BFS(graph, start, end):
     visited = set()
@@ -15,4 +16,5 @@ def BFS(graph, start, end):
 		queue.push(nodes)
 
 	# other processing work
+	...
 	
